@@ -1,5 +1,18 @@
 # ***Learning Math: Basic to Advanced***
 
+## Repository Description
+
+This repository serves as a comprehensive guide to mathematics, from fundamental concepts to advanced topics. It contains structured learning materials covering various branches of mathematics, including both pure and applied mathematics. The content is presented in multiple languages (English and Bengali) to reach a wider audience.
+
+### Key Features:
+- Organized breakdown of mathematical branches
+- Detailed descriptions of each mathematical domain
+- Practical applications in real-world scenarios
+- Bilingual content (English and Bengali)
+- Clear correlations between mathematical concepts and their industry applications
+
+---
+
 # **What is mathematics?**
 
 ## Branches of Mathematics:
@@ -30,7 +43,7 @@
 | **গণিতের শাখা**            | **বর্ণনা** | **প্রয়োগ ক্ষেত্র** |
 |----------------------|----------|--------------|
 | **পাটিগণিত (Arithmetic)** | সংখ্যা ও তাদের মৌলিক ক্রিয়াকলাপ (যোগ, বিয়োগ, গুণ, ভাগ) নিয়ে আলোচনা করে | দৈনন্দিন হিসাব-নিকাশ, আর্থিক লেনদেন |
-| **বীজগণিত (Algebra)** | চলক ও ধ্রুবকের সম্পর্ক নির্ণয় ও সমীকরণ সমাধান নিয়ে কাজ করে | ইঞ্জিনিয়ারিং, অর্থনীতি, কম্পিউটার বিজ্ঞান |
+| **বীজগণিত (Algebra)** | চলক ও ধ্রুবকের সম্পর্ক নির্ণয় ও সমীকরণ সমাধান নিয়ে কাজ করে | ইঞ্জিনিয়ারিং, অর্থনীতি, কম্পিউটার বিজ্ঞান |
 | **জ্যামিতি (Geometry)** | আকৃতি, আয়তন, স্থান ও তাদের পারস্পরিক সম্পর্ক নির্ণয় করে | স্থাপত্য, নকশা, কার্টোগ্রাফি |
 | **ত্রিকোণমিতি (Trigonometry)** | ত্রিভুজের কোণ ও বাহুর মধ্যে সম্পর্ক নিয়ে আলোচনা করে | জ্যোতির্বিজ্ঞান, সিভিল ইঞ্জিনিয়ারিং |
 | **ক্যালকুলাস (Calculus)** | অন্তরকরণ ও সমাকলন পদ্ধতি নিয়ে আলোচনা করে | পদার্থবিজ্ঞান, প্রকৌশল, অর্থনীতি |
