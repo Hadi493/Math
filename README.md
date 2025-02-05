@@ -75,7 +75,7 @@ This repository serves as a comprehensive guide to mathematics, from fundamental
 
 
 ## Number Theory:
-> Number theory is a branch of mathematics that studies the set of positive whole numbers (1,2,3,4,5,6...), also called natural numbers. It is sometimes referred to as "higher arithmetic."
+> ### Number theory is a branch of mathematics that studies the set of positive whole numbers (1,2,3,4,5,6...), also called natural numbers. It is sometimes referred to as "higher arithmetic."
 
 ## Numbers and Their Classes:
 
@@ -91,7 +91,7 @@ This repository serves as a comprehensive guide to mathematics, from fundamental
 
 
 ## সংখ্যা তত্ত্ব:
-> সংখ্যা তত্ত্ব হল গণিতের একটি শাখা যা ধনাত্মক পূর্ণসংখ্যাগুলোর (1,2,3,4,5,6...) অধ্যয়ন করে, যেগুলোকে প্রাকৃতিক সংখ্যা বলা হয়। একে মাঝে মাঝে "উচ্চতর পাটিগণিত" ও বলা হয়।
+> ###  সংখ্যা তত্ত্ব হল গণিতের একটি শাখা যা ধনাত্মক পূর্ণসংখ্যাগুলোর (1,2,3,4,5,6...) অধ্যয়ন করে, যেগুলোকে প্রাকৃতিক সংখ্যা বলা হয়। একে মাঝে মাঝে "উচ্চতর পাটিগণিত" ও বলা হয়।
 
 ## সংখ্যা এবং তাদের শ্রেণিবিভাগ:
 
