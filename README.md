@@ -93,6 +93,8 @@ This repository serves as a comprehensive guide to mathematics, from fundamental
 ## সংখ্যা তত্ত্ব:
 > ###  সংখ্যা তত্ত্ব হল গণিতের একটি শাখা যা ধনাত্মক পূর্ণসংখ্যাগুলোর (1,2,3,4,5,6...) অধ্যয়ন করে, যেগুলোকে প্রাকৃতিক সংখ্যা বলা হয়। একে মাঝে মাঝে "উচ্চতর পাটিগণিত" ও বলা হয়।
 
+> ### 
+
 ## সংখ্যা এবং তাদের শ্রেণিবিভাগ:
 
 - **বিজোড় সংখ্যা** → যেসব সংখ্যা ২ দ্বারা বিভাজ্য নয়: **1, 3, 5, 7, 9, ...**
@@ -102,3 +104,9 @@ This repository serves as a comprehensive guide to mathematics, from fundamental
 - **ত্রিভুজাকৃতি সংখ্যা** → যেসব সংখ্যা ১ থেকে \( n \) পর্যন্ত সংখ্যার যোগফল: **1, 3, 6, 10, 15, 21, 28, ...**
 - **পূর্ণ সংখ্যা** → যেসব সংখ্যা তাদের প্রকৃত বিভাজকদের যোগফলের সমান। উদাহরণ: **6** একটি পূর্ণ সংখ্যা কারণ এর বিভাজকগুলো **1, 2, এবং 3**, এবং **1 + 2 + 3 = 6**। কিছু পরিচিত পূর্ণ সংখ্যা: **6, 28, 496, 8128, ...**
 - **ফিবোনাচ্চি সংখ্যা** → একটি ক্রম যেখানে প্রতিটি সংখ্যা তার আগের দুটি সংখ্যার যোগফল। শুরু **0 এবং 1** দিয়ে, ক্রমটি হয়: **0, 1, 1, 2, 3, 5, 8, 13, 21, ...**। ফিবোনাচ্চি সংখ্যা প্রকৃতিতে বহুল ব্যবহৃত হয় এবং এদের অনেক গাণিতিক ও বৈজ্ঞানিক প্রয়োগ রয়েছে।
+
+---
+### What is Number Theory?
+> ### Number Theory, often termed the "Queen of mathematics" Primarily revolves around investing the inherent properties of numbers, their relationships, and the structures they form . It's realm that explores the behavior and characteristics of numbers, such as primes, and their role in various mathematical phenomena.
+
+
