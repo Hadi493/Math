@@ -1,4 +1,4 @@
-# ***Learning Math: Basic to Advanced***
+# **Learn Math: Basic to Advanced**
 
 ## Repository Description
 
@@ -106,7 +106,77 @@ This repository serves as a comprehensive guide to mathematics, from fundamental
 - **ফিবোনাচ্চি সংখ্যা** → একটি ক্রম যেখানে প্রতিটি সংখ্যা তার আগের দুটি সংখ্যার যোগফল। শুরু **0 এবং 1** দিয়ে, ক্রমটি হয়: **0, 1, 1, 2, 3, 5, 8, 13, 21, ...**। ফিবোনাচ্চি সংখ্যা প্রকৃতিতে বহুল ব্যবহৃত হয় এবং এদের অনেক গাণিতিক ও বৈজ্ঞানিক প্রয়োগ রয়েছে।
 
 ---
-### What is Number Theory?
-> ### Number Theory, often termed the "Queen of mathematics" Primarily revolves around investing the inherent properties of numbers, their relationships, and the structures they form . It's realm that explores the behavior and characteristics of numbers, such as primes, and their role in various mathematical phenomena.
+
+# **Number Theory: The Queen of Mathematics**  
+
+## **What is Number Theory?**  
+Number Theory, often called the **"Queen of Mathematics,"** primarily revolves around exploring the intrinsic properties of numbers, their relationships, and the structures they form. It delves into the behavior of numbers, such as **primes**, and their significance in various mathematical phenomena.  
+
+---
+
+## **Factors**  
+**Factors** of a number are the values that divide it exactly without leaving a remainder.  
+
+✅ **Example:** The factors of **12** are **1, 2, 3, 4, 6,** and **12**, as each of these numbers divides 12 completely.  
+
+---
+
+## **Multiples**  
+A **multiple** of a number is obtained by multiplying it with an integer.  
+
+✅ **Example:** The first five multiples of **4** are **4, 8, 12, 16,** and **20**.  
+
+---
+
+## **Divisibility Rules**  
+Divisibility rules help determine whether a number can be divided by another without performing actual division.  
+
+### **Rule of 2**  
+A number is **divisible by 2** if its last digit is even (**0, 2, 4, 6, or 8**).  
+
+✅ **Example:** **48** is divisible by **2** since its last digit (**8**) is even.  
+
+### **Rule of 3**  
+A number is **divisible by 3** if the sum of its digits is divisible by **3**.  
+
+✅ **Example:** The sum of the digits of **123** is:  
+**1 + 2 + 3 = 6** → Since **6** is divisible by **3**, **123** is also divisible by **3**.  
+
+### **Rule of 4**  
+A number is **divisible by 4** if the number formed by its **last two digits** is divisible by **4**.  
+
+✅ **Example:** The number **732** is divisible by **4** because its last two digits form **32**, which is divisible by **4**.  
+
+### **Rule of 5**  
+A number is **divisible by 5** if its last digit is **0** or **5**.  
+
+✅ **Example:** **85** is divisible by **5** because its last digit is **5**.  
+
+### **Rule of 6**  
+A number is **divisible by 6** if it is divisible by **both 2 and 3**.  
+
+✅ **Example:** **108** is divisible by **6** because it is divisible by both **2** (last digit is 8) and **3** (sum of digits is 1+0+8 = 9, which is divisible by 3).  
+
+### **Rule of 7**  
+A number is **divisible by 7** if doubling the last digit and subtracting it from the rest of the number results in a multiple of **7**.  
+
+✅ **Example:** For **133**, double the last digit (3 × 2 = 6) and subtract from the remaining part (13 - 6 = 7), which is divisible by **7**.  
+
+### **Rule of 8**  
+A number is **divisible by 8** if the last three digits form a number that is divisible by **8**.  
+
+✅ **Example:** **1,024** is divisible by **8** because the last three digits **024** form **24**, which is divisible by **8**.  
+
+### **Rule of 9**  
+A number is **divisible by 9** if the sum of its digits is divisible by **9**.  
+
+✅ **Example:** The sum of the digits of **162** is **1 + 6 + 2 = 9**, which is divisible by **9**, so **162** is also divisible by **9**.  
+
+### **Rule of 10**  
+A number is **divisible by 10** if its last digit is **0**.  
+
+✅ **Example:** **250** is divisible by **10** because its last digit is **0**.  
+
+---
 
 
