@@ -256,5 +256,73 @@ A number is **divisible by 10** if its last digit is **0**.
 
 ---
 
-## **Greatest Common Divisors (GCD)**
-The GCD of tow numbers is the largest number that can exactly divide both numbers without leaving a remainder. Example: The GCD of 18 and 24 is 6.
+### **Greatest Common Divisor (GCD)**  
+The **Greatest Common Divisor (GCD)** of two numbers is the largest number that can exactly divide both numbers without leaving a remainder.  
+
+#### **Example:**  
+Let's find the **GCD** of **18** and **24**:  
+- The factors of **18** are: **1, 2, 3, 6, 9, 18**  
+- The factors of **24** are: **1, 2, 3, 4, 6, 8, 12, 24**  
+- The common factors are: **1, 2, 3, 6**  
+- The greatest common factor is **6**.  
+
+Thus, **GCD(18, 24) = 6**.  
+
+#### **Methods to Find GCD**  
+
+1. **Prime Factorization Method:**  
+   - Find the prime factors of both numbers.  
+   - Multiply the common prime factors.  
+
+   **Example:**  
+   - 18 = **2 × 3 × 3**  
+   - 24 = **2 × 2 × 2 × 3**  
+   - Common factors: **2 × 3 = 6**  
+
+   So, **GCD(18, 24) = 6**.  
+
+2. **Division Method (Euclidean Algorithm):**  
+   - Divide the larger number by the smaller number.  
+   - Take the remainder and divide it again.  
+   - Repeat until the remainder is **0**.  
+   - The last divisor is the **GCD**.  
+
+   **Example:**  
+   - 24 ÷ 18 = **1 remainder 6**  
+   - 18 ÷ 6 = **3 remainder 0**  
+   - The last divisor is **6**, so **GCD(18, 24) = 6**.  
+
+---  
+
+### **Least Common Multiple (LCM)**  
+The **Least Common Multiple (LCM)** of two numbers is the smallest number that is a multiple of both numbers.  
+
+#### **Example:**  
+Let's find the **LCM** of **3** and **4**:  
+- The multiples of **3**: **3, 6, 9, 12, 15, 18, ...**  
+- The multiples of **4**: **4, 8, 12, 16, 20, ...**  
+- The smallest common multiple is **12**.  
+
+Thus, **LCM(3, 4) = 12**.  
+
+#### **Methods to Find LCM**  
+
+1. **Prime Factorization Method:**  
+   - Find the prime factors of both numbers.  
+   - Multiply the highest power of each prime factor.  
+
+   **Example:**  
+   - 3 = **3**  
+   - 4 = **2 × 2**  
+   - LCM = **2 × 2 × 3 = 12**  
+
+   So, **LCM(3, 4) = 12**.  
+
+2. **Using GCD Formula:**  
+   - **LCM(a, b) = (a × b) ÷ GCD(a, b)**  
+
+   **Example:**  
+   - Given **GCD(18, 24) = 6**, find LCM:  
+   - **LCM(18, 24) = (18 × 24) ÷ 6 = 72**  
+
+Thus, **LCM(18, 24) = 72**.  
