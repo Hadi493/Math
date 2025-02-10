@@ -255,3 +255,6 @@ A number is **divisible by 10** if its last digit is **0**.
 ✅ **উদাহরণ:** **250** সংখ্যাটি **10 দ্বারা বিভাজ্য**, কারণ এর শেষ অঙ্ক **0**।  
 
 ---
+
+## **Greatest Common Divisors (GCD)**
+The GCD of tow numbers is the largest number that can exactly divide both numbers without leaving a remainder. Example: The GCD of 18 and 24 is 6.
